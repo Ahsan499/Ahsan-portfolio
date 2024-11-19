@@ -9,7 +9,7 @@ const About = () => {
             About
           </h2>
 
-          <p className="text-gray-400 text-center dark:text-gray-700">
+          <p className="text-gray-400 text-center dark:text-white-700">
             I design and build digital products. I'm also a multi-disciplinary
             maker with over 2 years of experience in a wide range of design
             disciplines.
@@ -75,7 +75,7 @@ const About = () => {
                   <span className="text-gray-400 dark:text-gray-300">90%</span>
                 </div>
                 <div className="w-full bg-gray-200 dark:bg-gray-700 h-1.5 rounded-md">
-                  <div className="w-[450px] bg-indigo-600 h-1.5 rounded-md"></div>
+                  <div className="w-[270px] lg:w-[420px] bg-indigo-600 h-1.5 rounded-md"></div>
                 </div>
               </div>
 

@@ -49,7 +49,7 @@ const Services = ({ isDarkMode }) => {
         <h2 className="text-4xl font-extrabold text-indigo-600 mb-4">
           Services
         </h2>
-        <p className="mb-6 text-gray-400 text-center dark:text-gray-700">
+        <p className="mb-6 text-gray-400 text-center dark:text-white-700">
         My approach to Website Developer is to create a website that strengthens your company’s brand while ensuring ease of use and simplicity for your audience.
         </p>
       </div>
