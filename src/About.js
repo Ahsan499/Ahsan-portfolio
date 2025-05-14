@@ -22,12 +22,12 @@ const About = () => {
               <div>
                 <div className="flex justify-between items-center">
                   <h2 className="text-gray-400 font-medium dark:text-gray-300">
-                    Vue js
+                    React js
                   </h2>
-                  <span className="text-gray-400 dark:text-gray-300">100%</span>
+                  <span className="text-gray-400 dark:text-gray-300">70%</span>
                 </div>
                 <div className="w-full bg-gray-200 dark:bg-gray-700 h-1.5 rounded-md">
-                  <div className="w-full bg-indigo-600 h-1.5 rounded-md"></div>
+                  <div className="w-4/6  bg-indigo-600 h-1.5 rounded-md"></div>
                 </div>
               </div>
 
@@ -36,10 +36,10 @@ const About = () => {
                   <h2 className="text-gray-400 font-medium dark:text-gray-300">
                     JavaScript
                   </h2>
-                  <span className="text-gray-400 dark:text-gray-300">100%</span>
+                  <span className="text-gray-400 dark:text-gray-300">70%</span>
                 </div>
                 <div className="w-full bg-gray-200 dark:bg-gray-700 h-1.5 rounded-md">
-                  <div className="w-full bg-indigo-600 h-1.5 rounded-md"></div>
+                  <div className="w-4/6  bg-indigo-600 h-1.5 rounded-md"></div>
                 </div>
               </div>
 
@@ -60,10 +60,10 @@ const About = () => {
                   <h2 className="text-gray-400 font-medium dark:text-gray-300">
                     Bootstrap
                   </h2>
-                  <span className="text-gray-400 dark:text-gray-300">100%</span>
+                  <span className="text-gray-400 dark:text-gray-300">80%</span>
                 </div>
                 <div className="w-full bg-gray-200 dark:bg-gray-700 h-1.5 rounded-md">
-                  <div className="w-full bg-indigo-600 h-1.5 rounded-md"></div>
+                  <div className="w-5/6 bg-indigo-600 h-1.5 rounded-md"></div>
                 </div>
               </div>
 
@@ -96,7 +96,7 @@ const About = () => {
                   <h2 className="text-gray-400 font-medium dark:text-gray-300">
                   Git Hub
                   </h2>
-                  <span className="text-gray-400 dark:text-gray-300">41%</span>
+                  <span className="text-gray-400 dark:text-gray-300">60%</span>
                 </div>
                 <div className="w-full bg-gray-200 dark:bg-gray-700 h-1.5 rounded-md">
                   <div className="w-5/12 bg-indigo-600 h-1.5 rounded-md"></div>

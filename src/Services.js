@@ -1,7 +1,8 @@
 import React, { useEffect } from "react";
 import {
   FaLaravel ,
-  FaVuejs,
+  // FaVuejs,
+  FaReact,
   FaBootstrap,
   FaDatabase,
   FaPalette,
@@ -16,7 +17,8 @@ gsap.registerPlugin(ScrollTrigger);
 const Services = ({ isDarkMode }) => {
   const skills = [
     { name: "Laravel", icon: <FaLaravel  className="text-blue-400" /> },
-    { name: "Vue JS", icon: <FaVuejs className="text-green-400" /> },
+    // { name: "Vue JS", icon: <FaVuejs className="text-green-400" /> },
+    { name: "React JS", icon: <FaReact className="text-blue-400" /> },
     { name: "Bootstrap", icon: <FaBootstrap className="text-purple-400" /> },
     { name: "Vuetify", icon: <SiVuetify  className="text-teal-400" /> },
     { name: "My SQL", icon: <FaDatabase className="text-orange-400" /> },

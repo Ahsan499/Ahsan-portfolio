@@ -24,16 +24,16 @@ const ImageGallery = ({ isDarkMode }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   const projects = [
-    { src: welcome, name: "Al Faisal Space Management" },
+    // { src: welcome, name: "Al Faisal Space Management" },
     { src: Journey, name: "Journey Xtreme" },
-    { src: qts, name: "Qts Team Solution" },
-    { src: misbar, name: "Misbar Build" },
-    { src: fish, name: "Fish Farm" },
-    { src: room, name: "Al Faisal Space Management" },
-    { src: uoh, name: "University of Haripur Admission Portal" },
-    { src: baseerat, name: "Baseerat Academy" },
+    // { src: qts, name: "Qts Team Solution" },
+    // { src: misbar, name: "Misbar Build" },
+    // { src: fish, name: "Fish Farm" },
+    // { src: room, name: "Al Faisal Space Management" },
+    // { src: uoh, name: "University of Haripur Admission Portal" },
+    // { src: baseerat, name: "Baseerat Academy" },
     { src: AMG, name: "AMG Dashboard" },
-    { src: dashboard, name: "Fish Farm Dashboard" },
+    // { src: dashboard, name: "Fish Farm Dashboard" },
     { src: Vr, name: "Virtual Reality Tours" },
     { src: online, name: "Online Course Website" },
   ];
